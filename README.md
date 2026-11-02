@@ -1,4 +1,4 @@
-# Hi there, I'm Hamza Shaikh 👋
+# Hi there, I'm Hamza Shaikh (@HamzaShaikhAI) 👋
 
 ### Software Developer | AI Applications | Intelligent Automation | Systems Software
 
@@ -10,6 +10,14 @@ I enjoy turning ideas into working software, exploring new technologies, solving
 
 🌱 Exploring AI agents, LLM integrations, software architecture, compiler technology, and modern development tools.
 
+---
+
+## 🌟 Open Source Projects
+
+- 🔷 [KeplerBridge](https://github.com/HamzaShaikhAI/KeplerBridge) — C++20 Direct3D 12-to-Direct3D 11 compatibility and shader translation project.
+- 🤖 [AgentForge](https://github.com/HamzaShaikhAI/AgentForge) — Local-first AI agent integration and workflow platform.
+- ⚡ [Notion Block Engine](https://github.com/HamzaShaikhAI/notion-block-engine) — Zero-dependency TypeScript engine for Markdown, HTML, and Notion-style block conversion.
+  
 ---
 
 ## 🚀 About Me
