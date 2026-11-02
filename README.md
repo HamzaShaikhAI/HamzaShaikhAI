@@ -1,225 +1,27 @@
-# Hi there, I'm Hamza Shaikh 👋
+Hi, I'm Hamza Shaikh — a developer passionate about software engineering, artificial intelligence, systems software, and building practical technology products.
 
-### Building AI Products, Intelligent Automation & Creative Digital Experiences
+I enjoy taking ideas from concept and architecture to implementation, testing, and documentation. My projects give me opportunities to explore different areas of engineering, from low-level graphics compatibility to AI agent infrastructure and application development.
 
-I'm an AI Developer passionate about creating practical software, intelligent automation systems, and engaging digital experiences. I enjoy combining technology with creativity to solve real-world problems while continuously learning modern AI tools and software engineering.
+🚀 **Some of the projects I'm building:**
 
----
+**KeplerBridge** — An open-source C++20 Direct3D 12-to-Direct3D 11 compatibility and translation layer targeting legacy NVIDIA Kepler GPUs. Its first public release candidate is v0.5.0-rc1.
 
-## 🚀 About Me
+**AgentForge** — A local-first AI agent integration and workflow platform for Google Antigravity, built around MCP integrations, permission-controlled execution, and approval checkpoints.
 
-- 🤖 Building AI-powered applications and automation tools
-- 💙 Flutter & Python Developer
-- 🧠 Exploring LLMs, AI Agents, and Productivity Systems
-- 🎬 AI Video Creator & Motion Graphics Designer
-- 📚 Continuously learning new technologies every day
-- 🎯 Goal: Build products that positively impact people's lives
+**Notion Block Engine** — A zero-dependency TypeScript library for bidirectional Markdown, HTML, clipboard, and Notion-style block conversion.
 
----
+**Hifz Hero** — An in-development Flutter application focused on Quran memorization, spaced repetition, gamification, and offline-first learning.
 
-## 💼 Current Projects
+🛠️ **Technologies I work with:**
 
-### 📖 Hifz Hero
-A Duolingo-inspired AI-powered Quran memorization platform featuring gamification, spaced repetition, offline-first architecture, and AI-assisted learning.
+C++20, Python, TypeScript, JavaScript, Dart, Flutter, Node.js, Firebase, .NET, Git, CMake, AI tools, and Model Context Protocol (MCP).
 
-### 👓 VisionAI
-An AI-powered vision assistant designed to improve accessibility through computer vision and intelligent assistance.
+🌱 **Currently exploring:**
 
-### 🤖 PS-O1
-A personal AI assistant focused on productivity, automation, and multilingual interactions powered by modern LLM workflows.
+AI engineering, LLM applications, intelligent automation, compiler technology, systems programming, and software architecture.
 
-### 🎬 AI Creative Studio
-Creating AI-generated cartoon videos, hero intros, cricket tournament intros, and cinematic motion graphics.
+I believe in learning by building, testing ideas through real implementations, and being transparent about what works and what is still experimental.
 
----
+🔗 GitHub: https://github.com/HamzaShaikhAI
 
-## 🛠️ Tech Stack
-
-### Programming
-- Python
-- Dart
-- Flutter
-
-### AI & Automation
-- Google Gemini
-- Claude
-- Prompt Engineering
-- AI Workflow Design
-- API Integration
-
-### Mobile Development
-- Flutter
-- Firebase
-- Offline-First Architecture
-
-### Creative Tools
-- Adobe Premiere Pro
-- CapCut
-- Canva
-- AI Video Generation
-
-### Development Tools
-- Git
-- GitHub
-- VS Code
-- Android Studio
-
----
-
-## 🌱 Currently Learning
-
-- Advanced AI Agents
-- Software Architecture
-- System Design
-- Flutter Best Practices
-- AI Automation
-- Cloud Technologies
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Launch Hifz Hero
-- 🤖 Complete VisionAI
-- 🧠 Improve PS-O1
-- 🌍 Build a professional portfolio website
-- 💼 Start freelancing professionally
-- ⭐ Contribute to open source projects
-
----
-
-## 📊 GitHub
-
-I'm committed to building high-quality projects, maintaining clean code, and documenting my work professionally.
-
-Every repository reflects my learning journey and continuous improvement.
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: **indefect397@gmail.com**
-
-More platforms coming soon:
-- Portfolio Website
-- LinkedIn
-- Fiverr
-- YouTube
-
----
-
-> *"Great products are built through continuous learning, consistency, and curiosity."*
-
-⭐ Thanks for visiting my profile!# Hi there, I'm Hamza Shaikh 👋
-
-### Building AI Products, Intelligent Automation & Creative Digital Experiences
-
-I'm an AI Developer passionate about creating practical software, intelligent automation systems, and engaging digital experiences. I enjoy combining technology with creativity to solve real-world problems while continuously learning modern AI tools and software engineering.
-
----
-
-## 🚀 About Me
-
-- 🤖 Building AI-powered applications and automation tools
-- 💙 Flutter & Python Developer
-- 🧠 Exploring LLMs, AI Agents, and Productivity Systems
-- 🎬 AI Video Creator & Motion Graphics Designer
-- 📚 Continuously learning new technologies every day
-- 🎯 Goal: Build products that positively impact people's lives
-
----
-
-## 💼 Current Projects
-
-### 📖 Hifz Hero
-A Duolingo-inspired AI-powered Quran memorization platform featuring gamification, spaced repetition, offline-first architecture, and AI-assisted learning.
-
-### 👓 VisionAI
-An AI-powered vision assistant designed to improve accessibility through computer vision and intelligent assistance.
-
-### 🤖 PS-O1
-A personal AI assistant focused on productivity, automation, and multilingual interactions powered by modern LLM workflows.
-
-### 🎬 AI Creative Studio
-Creating AI-generated cartoon videos, hero intros, cricket tournament intros, and cinematic motion graphics.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming
-- Python
-- Dart
-- Flutter
-
-### AI & Automation
-- Google Gemini
-- Claude
-- Prompt Engineering
-- AI Workflow Design
-- API Integration
-
-### Mobile Development
-- Flutter
-- Firebase
-- Offline-First Architecture
-
-### Creative Tools
-- Adobe Premiere Pro
-- CapCut
-- Canva
-- AI Video Generation
-
-### Development Tools
-- Git
-- GitHub
-- VS Code
-- Android Studio
-
----
-
-## 🌱 Currently Learning
-
-- Advanced AI Agents
-- Software Architecture
-- System Design
-- Flutter Best Practices
-- AI Automation
-- Cloud Technologies
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Launch Hifz Hero
-- 🤖 Complete VisionAI
-- 🧠 Improve PS-O1
-- 🌍 Build a professional portfolio website
-- 💼 Start freelancing professionally
-- ⭐ Contribute to open source projects
-
----
-
-## 📊 GitHub
-
-I'm committed to building high-quality projects, maintaining clean code, and documenting my work professionally.
-
-Every repository reflects my learning journey and continuous improvement.
-
----
-
-## 🤝 Let's Connect
-
-📧 Email: **indefect397@gmail.com**
-
-More platforms coming soon:
-- Portfolio Website
-- LinkedIn
-- Fiverr
-- YouTube
-
----
-
-> *"Great products are built through continuous learning, consistency, and curiosity."*
-
-⭐ Thanks for visiting my profile!
+I'm interested in connecting with developers, open-source contributors, and people working on AI, software engineering, and emerging technologies.
