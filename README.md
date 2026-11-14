@@ -16,6 +16,7 @@ I enjoy turning ideas into working software, exploring new technologies, solving
 
 - 🔷 [KeplerBridge](https://github.com/HamzaShaikhAI/KeplerBridge) — C++20 Direct3D 12-to-Direct3D 11 compatibility and shader translation project.
 - 🤖 [AgentForge](https://github.com/HamzaShaikhAI/AgentForge) — Local-first AI agent integration and workflow platform.
+- 🎬 [Remotion-For-Antigravity](https://github.com/HamzaShaikhAI/Remotion-For-Antigravity) — Autonomous React video generation and multimedia editing engine for AI agents.
 - ⚡ [Notion Block Engine](https://github.com/HamzaShaikhAI/notion-block-engine) — Zero-dependency TypeScript engine for Markdown, HTML, and Notion-style block conversion.
   
 ---
@@ -58,6 +59,16 @@ A developer platform for Google Antigravity focused on connecting tools, executi
 - Native integrations and reusable MCP configurations
 - Permission-controlled execution and approval checkpoints
 - Credential isolation and local-first architecture
+
+### 🎬 [Remotion-For-Antigravity](https://github.com/HamzaShaikhAI/Remotion-For-Antigravity)
+
+**Autonomous Motion Graphics & Video Editing Engine for AI Agents**
+
+A developer framework for Google Antigravity 2.0 enabling autonomous AI agents to design, animate, and render React-based Remotion video footage, with deterministic spring physics and lossless FFmpeg loudness normalization.
+
+- TypeScript · React · Remotion · FFmpeg · EBU R128
+- Dynamic programmatic timeline generation
+- Model Context Protocol integration with agentic toolchains
 
 ### ⚡ [Notion Block Engine](https://github.com/HamzaShaikhAI/notion-block-engine)
 
@@ -151,9 +162,12 @@ Exploring AI-generated videos, creative automation, motion graphics, and digital
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [HamzaShaikhAI](https://github.com/HamzaShaikhAI)
-- **LinkedIn:** [Hamza Shaikh](https://www.linkedin.com/in/hamzashaikhai/)
-- **Projects:** [Explore My Repositories](https://github.com/HamzaShaikhAI?tab=repositories)
+- 🌐 **Portfolio & Entity Graph:** [hamzashaikhai.github.io](https://hamzashaikhai.github.io/)
+- 💻 **GitHub:** [@HamzaShaikhAI](https://github.com/HamzaShaikhAI)
+- 💼 **LinkedIn:** [Hamza Shaikh](https://www.linkedin.com/in/hamzashaikhai/)
+- 🐦 **X / Twitter:** [@HamzaShaikhAI](https://x.com/HamzaShaikhAI)
+- 🛒 **Fiverr:** [indefect](https://www.fiverr.com/indefect)
+- 📦 **Projects:** [Explore All Repositories](https://github.com/HamzaShaikhAI?tab=repositories)
 
 I'm always interested in learning, building, sharing ideas, and connecting with people who enjoy software engineering, AI, systems development, and open-source technology.
 
