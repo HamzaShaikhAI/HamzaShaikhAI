@@ -1,8 +1,10 @@
-# Hi there, I'm Hamza Shaikh (@HamzaShaikhAI) 👋
+# HamzaShaikhAI — Systems & Local-First AI Engineer
 
-### Software Developer | AI Applications | Intelligent Automation | Systems Software
+### DirectX 12 Translation · Zero-Trust MCP Firewalls · Deterministic React Video Compilers · AST Tooling
 
-I'm a developer passionate about building **AI-powered applications, intelligent automation systems, open-source software, and practical developer tools**.
+Flagship Engineering Lab: **[hamzashaikhai.com](https://hamzashaikhai.com/)** · YouTube: **[@HamzaShaikhAI](https://www.youtube.com/@HamzaShaikhAI)** · LinkedIn: **[in/hamzashaikhai](https://www.linkedin.com/in/hamzashaikhai/)**
+
+I'm **Hamza Shaikh (`@HamzaShaikhAI`)**, a Systems & Local-First AI Engineer building C++20 GPU translation layers, local-first AI agent firewalls, and programmatic React developer tools.
 
 I enjoy turning ideas into working software, exploring new technologies, solving engineering challenges, and continuously improving my software development skills.
 
