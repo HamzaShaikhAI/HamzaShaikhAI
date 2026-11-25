@@ -1,180 +1,71 @@
-# HamzaShaikhAI — Systems & Local-First AI Engineer
+<div align="center">
 
-### DirectX 12 Translation · Zero-Trust MCP Firewalls · Deterministic React Video Compilers · AST Tooling
+# Hamza Shaikh (`@HamzaShaikhAI`)
 
-Flagship Engineering Lab: **[hamzashaikhai.com](https://hamzashaikhai.com/)** · YouTube: **[@HamzaShaikhAI](https://www.youtube.com/@HamzaShaikhAI)** · LinkedIn: **[in/hamzashaikhai](https://www.linkedin.com/in/hamzashaikhai/)**
+### Systems & Local-First AI Engineer
+**DirectX 12 Translation · Zero-Trust MCP Firewalls · Deterministic React Video Compilers · AST Tooling**
 
-I'm **Hamza Shaikh (`@HamzaShaikhAI`)**, a Systems & Local-First AI Engineer building C++20 GPU translation layers, local-first AI agent firewalls, and programmatic React developer tools.
+[![Portfolio](https://img.shields.io/badge/Portfolio-hamzashaikhai.com-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzashaikhai.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-@HamzaShaikhAI-ef4444?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HamzaShaikhAI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/hamzashaikhai-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzashaikhai/)
+[![X](https://img.shields.io/badge/X-@HamzaShaikhAI-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HamzaShaikhAI)
 
-I enjoy turning ideas into working software, exploring new technologies, solving engineering challenges, and continuously improving my software development skills.
+<a href="https://github.com/HamzaShaikhAI/Remotion-For-Antigravity">
+  <img src="https://raw.githubusercontent.com/HamzaShaikhAI/Remotion-For-Antigravity/main/assets/rea-demo.gif" alt="Autonomous Code-Driven Motion Demo by @HamzaShaikhAI" width="760" />
+</a>
 
-🔭 Currently building software across AI, systems engineering, application development, and developer infrastructure.
-
-🌱 Exploring AI agents, LLM integrations, software architecture, compiler technology, and modern development tools.
-
----
-
-## 🌟 Open Source Projects
-
-- 🔷 [KeplerBridge](https://github.com/HamzaShaikhAI/KeplerBridge) — C++20 Direct3D 12-to-Direct3D 11 compatibility and shader translation project.
-- 🤖 [AgentForge](https://github.com/HamzaShaikhAI/AgentForge) — Local-first AI agent integration and workflow platform.
-- 🎬 [Remotion-For-Antigravity](https://github.com/HamzaShaikhAI/Remotion-For-Antigravity) — Autonomous React video generation and multimedia editing engine for AI agents.
-- ⚡ [Notion Block Engine](https://github.com/HamzaShaikhAI/notion-block-engine) — Zero-dependency TypeScript engine for Markdown, HTML, and Notion-style block conversion.
-  
----
-
-## 🚀 About Me
-
-- 💻 Developer interested in software engineering and emerging technologies
-- 🤖 Building AI applications, personal assistants, and intelligent automation tools
-- ⚙️ Exploring systems programming, Windows development, and software architecture
-- 🌐 Interested in open-source development and developer tooling
-- 🧠 Learning through hands-on projects, experimentation, and testing
-- 🎯 Goal: Build useful software and grow as a software engineer and AI developer
+</div>
 
 ---
 
-## 🏗️ Featured Projects
+## 📌 Flagship Open-Source Stack (Top 4 Pinned)
 
-### 🔷 [KeplerBridge](https://github.com/HamzaShaikhAI/KeplerBridge)
-
-**Direct3D 12 to Direct3D 11 Compatibility & Translation Layer**
-
-An open-source C++20 graphics compatibility project exploring how modern Direct3D 12 workloads and Shader Model 6.0 DXIL shaders can be translated for legacy NVIDIA Kepler GPUs using a Direct3D 11 backend.
-
-- C++20 · Direct3D 12 · Direct3D 11 · DXIL · DXBC
-- Runtime API interception and shader translation
-- SSA-based compiler optimizations and GPU execution
-- Hardware validation on NVIDIA GeForce GT 740 (GK107)
-
-🚀 **[Explore KeplerBridge](https://github.com/HamzaShaikhAI/KeplerBridge)** · **[Download v0.5.0-rc1](https://github.com/HamzaShaikhAI/KeplerBridge/releases/tag/v0.5.0-rc1)**
-
-*Currently a release candidate. Compatibility remains bounded, with experimental features and unsupported workloads clearly documented.*
-
-### 🤖 [AgentForge](https://github.com/HamzaShaikhAI/AgentForge)
-
-**Local-First AI Agent Integration & Workflow Platform**
-
-A developer platform for Google Antigravity focused on connecting tools, executing workflows, and controlling agent actions through structured permissions and human approval.
-
-- TypeScript · Node.js · Model Context Protocol (MCP)
-- Native integrations and reusable MCP configurations
-- Permission-controlled execution and approval checkpoints
-- Credential isolation and local-first architecture
-
-### 🎬 [Remotion-For-Antigravity](https://github.com/HamzaShaikhAI/Remotion-For-Antigravity)
-
-**Autonomous Motion Graphics & Video Editing Engine for AI Agents**
-
-A developer framework for Google Antigravity 2.0 enabling autonomous AI agents to design, animate, and render React-based Remotion video footage, with deterministic spring physics and lossless FFmpeg loudness normalization.
-
-- TypeScript · React · Remotion · FFmpeg · EBU R128
-- Dynamic programmatic timeline generation
-- Model Context Protocol integration with agentic toolchains
-
-### ⚡ [Notion Block Engine](https://github.com/HamzaShaikhAI/notion-block-engine)
-
-**Zero-Dependency TypeScript Markdown & HTML Conversion Engine**
-
-A lightweight content-processing library that converts between Markdown, HTML, clipboard content, and a Notion-style Block AST.
-
-- TypeScript · Node.js · Markdown · HTML
-- Bidirectional content conversion
-- Clipboard HTML sanitization
-- Rich text, tables, callouts, and semantic HTML support
-
-### 📦 [VYDRIX](https://github.com/HamzaShaikhAI/VYDRIX)
-
-**Experimental Windows Cloud-Backed Virtual Storage Project**
-
-An archived systems-engineering experiment investigating cloud-backed virtual storage, filesystem integration, caching, and Windows application compatibility.
-
-*Discontinued and preserved as a technical reference and post-mortem.*
+| Repository | Engineering Focus | Key Proof & Stack | Canonical Hub |
+| :--- | :--- | :--- | :--- |
+| 🔷 **[KeplerBridge](https://github.com/HamzaShaikhAI/KeplerBridge)** | C++20 Direct3D 12 -> 11 Compatibility Proxy | LLVM 3.7 DXIL->SM5.0 DXBC lowering, `0.03 ms` SHA-256 disk shader cache, drop-in `d3d12.dll` on GT 740 (`v0.5.0-rc1`) | [hamzashaikhai.com/keplerbridge](https://hamzashaikhai.com/keplerbridge/) |
+| 🤖 **[AgentForge](https://github.com/HamzaShaikhAI/AgentForge)** | Zero-Trust MCP Firewall & Agent Runtime | 5-tier cryptographic approval gates, Windows DPAPI / AES-256 vault, 39+ native bridges, 52 MCP presets (`508/508` Vitest passed) | [hamzashaikhai.com/agentforge](https://hamzashaikhai.com/agentforge/) |
+| 🎬 **[Remotion-For-Antigravity](https://github.com/HamzaShaikhAI/Remotion-For-Antigravity)** | Autonomous React Video Compiler (REA) | Deterministic `useCurrentFrame()` animations, `<OffthreadVideo>` live screen compositor, `-14 LUFS` EBU R128 mastering, `<3s` QA | [hamzashaikhai.com/remotion](https://hamzashaikhai.com/remotion/) |
+| ⚡ **[Notion Block Engine](https://github.com/HamzaShaikhAI/notion-block-engine)** | Zero-Dependency AST & Clipboard Engine | Bidirectional Dirty Docs HTML ⇄ Notion Block AST ⇄ GFM Markdown (`<15 KB`, zero deps, Cloudflare Workers ready) | [hamzashaikhai.com](https://hamzashaikhai.com/) |
 
 ---
 
-## 💡 Other Projects & Development
+## 🏗️ Featured Engineering Breakdown
 
-### 📖 Hifz Hero
-An AI-assisted Quran memorization application inspired by Duolingo, featuring spaced repetition, progress tracking, gamification, and offline-first architecture.
+### 🔷 [KeplerBridge](https://github.com/HamzaShaikhAI/KeplerBridge) — DirectX 12 Translation Layer
+- Cleanroom C++20 drop-in `d3d12.dll` proxy translating SM 6.0 DXIL bitcode -> SM 5.0 DXBC for frozen NVIDIA Kepler (`D3D_FEATURE_LEVEL_11_0`) silicon without modifying drivers or Windows OS files.
+- Verified with honest hardware boundaries on **GeForce GT 740 (GK107)** — [Explore Benchmark Matrix](https://hamzashaikhai.com/keplerbridge/#benchmark-explorer) · [Download v0.5.0-rc1](https://github.com/HamzaShaikhAI/KeplerBridge/releases/tag/v0.5.0-rc1).
 
-### 👓 VisionAI
-An experimental AI-powered vision assistant exploring computer vision, Raspberry Pi hardware, and intelligent assistance.
+### 🤖 [AgentForge](https://github.com/HamzaShaikhAI/AgentForge) — Local-First MCP Firewall & Capability Harness
+- Stops destructive autonomous commands (`git push --force`, `rm -rf`) before execution with signed human-in-the-loop checkpoints and isolated Windows DPAPI credential storage.
+- Includes Google Flow Pro studio integration, Win32/GDI Computer Use, React 19 Web Manager (`localhost:9470`), and `508/508` passing tests.
 
-### 🧠 PS-O1
-A personal AI assistant project exploring local LLMs, multilingual interaction, voice input, and productivity automation.
+### 🎬 [Remotion-For-Antigravity](https://github.com/HamzaShaikhAI/Remotion-For-Antigravity) — Video As Deterministic Code
+- Replaces brittle AI pixel diffusion and manual keyframe timelines with deterministic TypeScript + React compositions inside Google Antigravity.
+- Ships with `MeanArtDirectorQa` (`<3.0s` pixel-delta rejection), `PhoneticLexiconEngine`, chunked Chromium rendering (`rea render-long`), and live capture compositing.
 
-### 🎬 AI Creative Studio
-Exploring AI-generated videos, creative automation, motion graphics, and digital content production.
+### ⚡ [Notion Block Engine](https://github.com/HamzaShaikhAI/notion-block-engine) — Zero-Dependency AST Compiler
+- Strips Google Docs GUID bloat and MS Word `Mso` styles cleanly into semantic Notion Block AST, clean GFM Markdown, and KaTeX-aware HTML in `<1 ms`.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Core Stack & Ecosystem
 
-### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### Frameworks & Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-18%2F19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### AI & Automation
-- AI Agents and LLM integrations
-- Model Context Protocol (MCP)
-- Local LLMs and Ollama
-- AI-powered application development
-- Workflow automation and API integrations
-
-### Systems & Engineering
-- Windows application development
-- Direct3D 11 / Direct3D 12
-- DXIL and DXBC shader translation
-- CMake, Git, GitHub, and automated testing
-- Software architecture and performance analysis
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🤝 Connect & Follow
 
-- Advanced AI engineering and agent architectures
-- C++ systems programming and compiler design
-- Software architecture and system design
-- Machine learning and modern AI frameworks
-- Reliable application development and deployment
-- Open-source collaboration and software quality
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Advancing KeplerBridge toward its first stable release
-- 🤖 Developing AgentForge and AI-powered developer tools
-- ⚡ Building lightweight and reusable software libraries
-- 📱 Developing Hifz Hero and other personal applications
-- 🌍 Establishing a strong open-source developer portfolio
-
----
-
-## 🤝 Connect With Me
-
-- 🌐 **Portfolio & Entity Graph:** [hamzashaikhai.github.io](https://hamzashaikhai.github.io/)
-- 💻 **GitHub:** [@HamzaShaikhAI](https://github.com/HamzaShaikhAI)
-- 💼 **LinkedIn:** [Hamza Shaikh](https://www.linkedin.com/in/hamzashaikhai/)
+- 🌐 **Engineering Lab (Canonical):** [hamzashaikhai.com](https://hamzashaikhai.com/) *(Mirror: [hamzashaikhai.github.io](https://hamzashaikhai.github.io/))*
+- 🎥 **YouTube Live Demos:** [@HamzaShaikhAI](https://www.youtube.com/@HamzaShaikhAI)
+- 💼 **LinkedIn:** [linkedin.com/in/hamzashaikhai](https://www.linkedin.com/in/hamzashaikhai/)
 - 🐦 **X / Twitter:** [@HamzaShaikhAI](https://x.com/HamzaShaikhAI)
-- 🛒 **Fiverr:** [indefect](https://www.fiverr.com/indefect)
-- 📦 **Projects:** [Explore All Repositories](https://github.com/HamzaShaikhAI?tab=repositories)
+- 📦 **All Repositories:** [github.com/HamzaShaikhAI?tab=repositories](https://github.com/HamzaShaikhAI?tab=repositories)
 
-I'm always interested in learning, building, sharing ideas, and connecting with people who enjoy software engineering, AI, systems development, and open-source technology.
-
----
-
-⭐ Thanks for visiting my profile!
-
-*Build with curiosity. Engineer with discipline. Improve through experimentation.*
+*Build with curiosity. Engineer with discipline. Verify every claim in real hardware and code.*
